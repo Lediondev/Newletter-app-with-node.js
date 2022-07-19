@@ -61,8 +61,7 @@ app.listen(process.env.PORT || 3000, function() {
     console.log("server started on port 3000")
 })
 
-// api key
-// 9181b280f477b1f07c4088f05759a143-us14
 
-//list id
-// 6e71d494f8.
+
+
+
